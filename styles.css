@@ -152,6 +152,16 @@ body {
   margin-top: 24px;
 }
 
+.sponsor-badge a {
+  color: #ec3750;
+  text-decoration: underline;
+  text-underline-position: under;
+}
+
+.sponsor-badge a:hover {
+  text-decoration-style: wavy;
+}
+
 .eyebrow {
   color: var(--color-muted);
   font-size: 24px;
